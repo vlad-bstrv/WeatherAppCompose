@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WeatherApp Compose</string>
+    <string name="clear_sky">Чистое небо</string>
+    <string name="mainly_clear">В основном ясно</string>
+    <string name="partly_cloudy">Переменная облачность</string>
+    <string name="overcast">Пасмурно</string>
+    <string name="foggy">Туманно</string>
+    <string name="depositing_rime_fog">Осаждающий иней туман</string>
+    <string name="light_drizzle">Light drizzle</string>
+    <string name="moderate_drizzle">Легкий моросящий дождь</string>
+    <string name="dense_drizzle">Густой моросящий дождь</string>
+    <string name="slight_freezing_drizzle">Легкий моросящий дождь</string>
+    <string name="dense_freezing_drizzle">Густой моросящий дождь</string>
+    <string name="slight_rain">Небольшой дождь</string>
+    <string name="rainy">Дождливый</string>
+    <string name="heavy_rain">Ливень</string>
+    <string name="heavy_freezing_rain">Сильный ледяной дождь</string>
+    <string name="slight_snow_fall">Небольшой снегопад</string>
+    <string name="moderate_snow_fall">Умеренный снегопад</string>
+    <string name="heavy_snow_fall">Сильный снегопад</string>
+    <string name="snow_grains">Снежные зерна</string>
+    <string name="slight_rain_showers">Небольшие дождевые ливни</string>
+    <string name="moderate_rain_showers">Умеренный ливень</string>
+    <string name="violent_rain_showers">Сильные ливни</string>
+    <string name="light_snow_showers">Небольшой снежный дождь</string>
+    <string name="heavy_snow_showers">Сильный снегопад</string>
+    <string name="moderate_thunderstorm">Умеренная гроза</string>
+    <string name="thunderstorm_with_slight_hail">Гроза с небольшим градом</string>
+    <string name="thunderstorm_with_heavy_hail">Гроза с сильным градом</string>
+    <string name="today">Сегодня</string>
+</resources>
